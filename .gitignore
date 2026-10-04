@@ -1,0 +1,6 @@
+# Keep private documents and local bundles out of the published repository.
+*.pdf
+*.zip
+work/
+.DS_Store
+Thumbs.db
